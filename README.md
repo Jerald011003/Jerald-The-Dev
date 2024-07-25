@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerald Francis Bagsic</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-<img src="[https://komarev.com/ghpvc/?username=jerald011003&label=Profile%20views&color=0e75b6&style=flat](https://www.deviantart.com/pixeljeff/art/Coding-990517671)" alt="jerald011003" />
+<img src="https://www.deviantart.com/pixeljeff/art/Coding-990517671" alt="Coding by pixeljeff" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerald011003&label=Profile%20views&color=0e75b6&style=flat" alt="jerald011003" /> </p>
 
